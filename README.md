@@ -1,2 +1,4 @@
 # LogUtil-Android
-Shows Logs if Apk build type is debug
+## About
+Shows Logs if Apk 
+
