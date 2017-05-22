@@ -1,4 +1,5 @@
 # LogUtil-Android
+(https://jitpack.io/#syedsamarulhuda/LogUtil-Android)
 ### About
 
 LogUtil Library is used to manage your Log during release and debug build.
