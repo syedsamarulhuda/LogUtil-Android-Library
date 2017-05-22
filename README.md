@@ -3,18 +3,23 @@
 
 LogUtil Library is used to manage your Log during release and debug build.
 By passing "true" in parameter along with log Tag and data to display.
-
-e.g     LogUtil.d(true,"Tag","Data");
+```sh
+   LogUtil.d(true,"Tag","Data");
+```
          
 And  if dont want display Log Just pass "false".
 
-e.g     LogUtil.d(false,"Tag","Data");
+```sh
+    LogUtil.d(false,"Tag","Data");
+```
 
-Best way is that we can have global varibale flag in your constant class and pass that variable in LogUtil.d
-  e.g       
-              public static final boolean IS_DEBUG= true;
+Best way is that we can have global varibale flag in your constant class and pass that variable in LogUtil.d  .
+     
+            ```sh 
+            public static final boolean IS_DEBUG= true;
+            ```
               
-              LogUtil.d(IS_DEBUG,"Tag","Data");
+           ```sh   LogUtil.d(IS_DEBUG,"Tag","Data"); ```
               
 
 ### Adding Dependencies
