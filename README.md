@@ -1,6 +1,5 @@
 
-[![Release](https://jitpack.io/v/org.bitbucket.User/Repo.svg)](https://jitpack.io/#syedsamarulhuda/LogUtil-Android)
-
+[![Release](https://jitpack.io/v/User/Repo.svg)](https://jitpack.io/#User/Repo)
 # LogUtil-Android
 
 ### About
