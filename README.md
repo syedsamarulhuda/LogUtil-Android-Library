@@ -1,5 +1,5 @@
 
-[![Release](https://badge.fury.io/py/django-fcm.svg)](https://jitpack.io/#syedsamarulhuda/LogUtil-Android)
+[![Release](https://jitpack.io/v/org.bitbucket.User/Repo.svg)](https://jitpack.io/#syedsamarulhuda/LogUtil-Android)
 
 # LogUtil-Android
 
