@@ -15,11 +15,11 @@ And  if dont want display Log Just pass "false".
 
 Best way is that we can have global varibale flag in your constant class and pass that variable in LogUtil.d  .
      
-            ```sh 
+          
             public static final boolean IS_DEBUG= true;
-            ```
+           
               
-           ```sh   LogUtil.d(IS_DEBUG,"Tag","Data"); ```
+             LogUtil.d(IS_DEBUG,"Tag","Data"); 
               
 
 ### Adding Dependencies
